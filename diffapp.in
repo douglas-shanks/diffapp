@@ -1,0 +1,6 @@
+n_elements = 249
+initial_timestep = 0.004
+end_step = 10
+da_max_its = 10000
+da_eps = 1.0e-15
+print_matlab = 1
