@@ -1,7 +1,7 @@
 # diffapp
 We use PETSc to solve the heat equation in the unit square
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;u}{\partial&space;t}&space;=&space;-\nabla\left(\alpha&space;\nabla&space;u&space;\right)&space;&plus;&space;f,&space;\text{in}&space;\&space;\Omega&space;=&space;(0,1)^{2}," target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;u}{\partial&space;t}&space;=&space;-\nabla\left(\alpha&space;\nabla&space;u&space;\right)&space;&plus;&space;f,&space;\text{in}&space;\&space;\Omega&space;=&space;(0,1)^{2}," title="\frac{\partial u}{\partial t} = -\nabla\left(\alpha \nabla u \right) + f, \text{in} \ \Omega = (0,1)^{2}," /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\partial&space;u}{\partial&space;t}&space;=&space;-\nabla\left(\alpha&space;\nabla&space;u&space;\right)&space;&plus;&space;f,&space;\text{in}&space;\&space;\Omega&space;=&space;(0,1)^{2}," target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;u}{\partial&space;t}&space;=&space;-\nabla\left(\alpha&space;\nabla&space;u&space;\right)&space;&plus;&space;f,&space;\text{in}&space;\&space;\Omega&space;=&space;(0,1)^{2}," title="\frac{\partial u}{\partial t} = \nabla\left(\alpha \nabla u \right) + f, \text{in} \ \Omega = (0,1)^{2}," /></a>
 
 discretised with Q1 finite elements.
 
