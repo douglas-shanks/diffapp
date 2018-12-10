@@ -23,7 +23,4 @@ Using Ocatve (for example)
 >> surf(reshape(u,250,250)); shading interp; view(2); colorbar
 ```
 
-![output](https://user-images.githubusercontent.com/15614951/49749591-9afc6800-fca0-11e8-85d2-680c86cc3e40.jpg)
-
-
 
