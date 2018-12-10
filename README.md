@@ -1,6 +1,6 @@
 # diffapp
 We use PETSc to solve the heat equation in the unit square, discretised with Q1 finite elements.
-The purpose of this is primarily to test PETSc solver/preconditioners and as a C exercise :).
+The purpose of this is primarily to test PETSc solver/preconditioners.
 
 Compile: make diffapp (change PETSC_DIR to local PETSc installation)
 
