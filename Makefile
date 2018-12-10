@@ -1,4 +1,4 @@
-export PETSC_DIR=/home/douglas/petsc-3.10.2
+export PETSC_DIR=
 
 CFLAGS = -O3 -march=native -funroll-loops -cpp -fopenmp
 CCX = mpicc
