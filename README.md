@@ -9,7 +9,7 @@ The purpose of this is primarily to test PETSc solver/preconditioners.
 
 Compile: make diffapp (change PETSC_DIR to local PETSc installation)
 
-Run: OMP_NUM_THREADS=1 ./diffapp -ksp_type cg -pc_type bjacobi (for example)
+Run: OMP_NUM_THREADS=1 mpirun -n 2 ./diffapp -ksp_type cg -pc_type bjacobi (for example)
 
 Cleanup: make allclean
 
