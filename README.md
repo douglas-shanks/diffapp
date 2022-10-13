@@ -15,7 +15,7 @@ Cleanup: make allclean
 
 Visualisation: A file solution.m is produced if print_matlab=1. 
 
-Using Ocatve (for example)
+Using Ocatve/MATLAB (for example)
 
 ```matlab
 >> solution
