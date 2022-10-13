@@ -5,7 +5,7 @@ We use PETSc to solve the heat equation in the unit square
 
 discretised with Q1 finite elements.
 
-The purpose of this is primarily to test PETSc solver/preconditioners.
+The purpose of this is primarily to test PETSc solver/preconditioners in an small application.
 
 Compile: make diffapp (change PETSC_DIR to local PETSc installation)
 
@@ -15,7 +15,7 @@ Cleanup: make allclean
 
 Visualisation: A file solution.m is produced if print_matlab=1. 
 
-Using Ocatve (for example)
+Using Ocatve/MATLAB (for example)
 
 ```matlab
 >> solution
